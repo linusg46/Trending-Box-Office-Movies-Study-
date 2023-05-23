@@ -11,3 +11,15 @@ Whenever movies gross a lot of profit and income ,they attract a lot of investor
 Sometimes a movie's marketing costs will match or even exceed its actual production costs. These days, a movie's fate may be determined by its marketing, or it may dangle in the balance while going ignored among hundreds of other comparable movies. A great marketing strategy can change everything. Given the increased rivalry in the film industry, it is critical for an investor to do their homework on production companies, get to know their owners, and be passionate about movies in general. It is better to know more.
 
 Investors are increasingly turning to quantitative analysis and machine learning approaches to not only forecast audience tastes but also their preferences due to the development of technology and the accessibility of enormous amounts of  data. Using a variety of market-specific characteristics, including movie ratings, reviews, and budget, I hope to create conclusions on the kind of movies that are performing the best at the box office in this research. The project's findings may offer insightful information about tastes and preferences of the audience, enabling investors to make well-informed investment decisions.
+### Problem statement
+The Microsoft Corporation creates and sells software, services, and hardware that give people's lives additional opportunities, convenience, and value.And in order to continue improving peoples lives ,the company has decided to create a movie studio ,a trend being done by the big companies.However Microsoft face a huge problem is that this this being a new project,they dont know how to create better movies that will capture the audience.My research aims to offer investors and other business stakeholders a useful tool for making more informed choices concerning the production of movies.ven though a project may appear promising on paper, you must still pay attention to the small print since customers still require high-quality entertainment
+
+### Main objective
+To create and implement a predictive time series model using data analysis and machine learning methods in order to precisely predict the kinds of movies that will bring in a lot of money at the box office.
+
+### Specific Objectives
+*To gain insights from audience positive reviews on why they love a certain genre of films may it be horror ,fantasy ,comedy ,fiction      ,adventure,thriller or animation films
+
+*To assist Microsft in understanding their customers. The businesses can then improve their marketing and produce a better product. 
+
+*To help understand the different type of factors involved in making a successful film that will generate a lot of revenue for the company and the business stakeholders.
