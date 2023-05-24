@@ -23,3 +23,4 @@ To create and implement a predictive time series model using data analysis and m
 *To assist Microsft in understanding their customers. The businesses can then improve their marketing and produce a better product. 
 
 *To help understand the different type of factors involved in making a successful film that will generate a lot of revenue for the company and the business stakeholders.
+
