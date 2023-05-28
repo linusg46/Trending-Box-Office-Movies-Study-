@@ -48,3 +48,6 @@ However, only a few features and rows from the several datasets that were gather
   - The company should invest on properly Marketed films .This can be done for example by having well known actors having the lead roles or cameos     in the films.This increases the popularity attracting a lot of audience in the Cinemas.
   - The company should invest on films with experienced cast and crew .This will help to  ensure that the actors are contributing to making the director's vision a reality       and a success. 
   - The company should invest on films popular among the audience i.e a big fan base.
+
+  #### Non-presentation
+  Here is a link to a canva presenation of the study https://www.canva.com/design/DAFkKI7sVGw/7KZGy-XxMgMEnGcpKiG_vA/edit?utm_content=DAFkKI7sVGw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
